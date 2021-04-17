@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "893351886949",
+    "project_id": "bijoy-meet",
+    "storage_bucket": "bijoy-meet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893351886949:android:720854c3629d802195468c",
+        "android_client_info": {
+          "package_name": "bijoy.meet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893351886949-47gka6i7l2icj8mk481hek507c145nt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bijoy.meet.app",
+            "certificate_hash": "4a3ce77ff8d531372208aa04d1ab7346ff67ae25"
+          }
+        },
+        {
+          "client_id": "893351886949-1di694cpijho1vbod941btcquk4680h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLVw7v0ZzrlTHGkv4vPrxbaWcSBIOhw0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893351886949-1di694cpijho1vbod941btcquk4680h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

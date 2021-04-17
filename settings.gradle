@@ -1,0 +1,3 @@
+rootProject.name='Bijoy Meet'
+include ':app', ':core'
+//Meetly
